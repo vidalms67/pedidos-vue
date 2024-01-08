@@ -13,7 +13,8 @@ import router from './router';
 
 export default{
   components: {
-    Navbar
+    Navbar,
+    Footer
   }
 }
 

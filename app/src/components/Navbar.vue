@@ -6,7 +6,7 @@
                     <img src="" id="logo">
                 </RouterLink>
                 <RouterLink to="/">Home</RouterLink>
-                <RouterLink to="/about">About</RouterLink>
+                <RouterLink to="/pedidos">Pedidos</RouterLink>
             </nav>
         </div>
     </header>
